@@ -116,7 +116,7 @@ To start Mailu, run the following commands from the ``docs/kubernetes/mailu`` di
 Create the first admin account
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-When the cluster is online you need to create you master user to access https://mail.example.com/admin
+When the cluster is online you need to create you master user to access https://mail.example.com/ui
 
 You can create it now manually, or have the system create it automatically.
 
